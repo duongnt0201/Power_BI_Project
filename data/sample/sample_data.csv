@@ -1,0 +1,6 @@
+date,department,category,metric_name,metric_value,status
+2026-01-01,Sales,A,Revenue,1000000,Completed
+2026-01-01,Marketing,A,Spend,250000,Completed
+2026-01-02,Sales,B,Revenue,1250000,Completed
+2026-01-02,Operations,A,Refresh Duration,12,Success
+2026-01-03,Operations,B,Refresh Duration,18,Failed
